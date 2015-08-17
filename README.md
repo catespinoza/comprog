@@ -1,0 +1,2 @@
+# comprog
+Competitive programming
